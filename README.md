@@ -13,13 +13,13 @@
     <img src="https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b" style="margin-right: 5px;" alt="Webpack">
     <img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" style="margin-right: 5px;" alt="Nodejs">
  </div>
-
+ ____
 - 🔭 На данный момент я в процессе написания дипломной работы https://github.com/popvaleks/movies-explorer-frontend 
 - 🌱 Ближайшей целью является освоить TypeScript 
 - :robot: Мечтаю иметь свободное время для чтения книг
 - :gem: Не смог найти в соннике к чему сниться VSC
 - :new: Не представляю свою жизнь без постоянного саморазвития
-
+____
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/popvaleks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/aleksandr.popov.50364)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aleksfry/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popvaleks)](https://github.com/anuraghazra/github-readme-stats)
