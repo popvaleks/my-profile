@@ -19,8 +19,7 @@
 - :robot: Мечтаю иметь свободное время для чтения книг
 - :gem: Не смог найти в соннике к чему сниться VSC
 - :new: Не представляю свою жизнь без постоянного саморазвития
-- 🔭 I’m currently working on https://github.com/popvaleks/movies-explorer-frontend 
-- 🌱 I’m currently learning TypeScript 
+____
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/popvaleks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/aleksandr.popov.50364)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aleksfry/)  
